@@ -1,0 +1,7 @@
+registerUser - înregistrare
+loginUser - autentificare
+logoutUser - deconectare
+resetPassword - resetare parolă
+getUserProfile - profil utilizator (legat de auth)
+getCurrentUser - utilizator curent
+getAuthErrorMessage - mesaje erori auth
